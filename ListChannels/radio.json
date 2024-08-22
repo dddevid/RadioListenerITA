@@ -1,1 +1,12 @@
-
+[
+    {
+        "name": "KissKiss",
+        "stream_url": "https://kisskiss.fluidstream.eu/KissKiss.aac",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Logo_Radio_Kiss_Kiss.png"
+    },
+    {
+        "name": "Radio2",
+        "stream_url": "https://icestreaming.rai.it/2.mp3",
+        "logo_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rai_Radio_2_Logo_2017.png"
+    }
+]
